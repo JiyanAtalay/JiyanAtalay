@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Jiyan Atalay</h1>
 <h3 align="center">I am a Software Engineering student in Turkey.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyanatalay&label=Profile%20views&color=0e75b6&style=flat" alt="jiyanatalay" /> </p>
+
 - 🌱 I’m currently learning **C & C++ & C# & Python**
 
 - 📫 How to reach me **jiyanatalay0@gmail.com**
