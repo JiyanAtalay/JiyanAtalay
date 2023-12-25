@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyanatalay&label=Profile%20views&color=0e75b6&style=flat" alt="jiyanatalay" /> </p>
 
-- 🌱 I’m currently learning **C & C++ & C# & Python**
+- 🌱 I’m currently learning **C & C++ & C# & Python & Java**
 
 - 📫 How to reach me **jiyanatalay0@gmail.com**
 
